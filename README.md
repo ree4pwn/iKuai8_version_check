@@ -4,7 +4,11 @@
 
 ## 固件获取
 
-获取所有下载bin的下载链接，固定地址https://patch.ikuai8.com/3.x/patch/iKuai8_<arch>_<version>_<buildtime>.<iso|bin|gho|img.gz>
+获取所有下载bin的下载链接，固定地址 
+
+```TXT
+https://patch.ikuai8.com/3.x/patch/iKuai8_<arch>_<version>_<buildtime>.<iso|bin|gho|img.gz>
+```
 
 下载所有固件
 
